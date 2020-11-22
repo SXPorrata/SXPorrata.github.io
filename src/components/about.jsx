@@ -13,7 +13,7 @@ export default class About extends Component {
               </div>
             </div>
             <div className="about-text">
-              <p>My name is Sean X. Porrata.  FInish this about me section</p>
+              <p>My name is Sean X. Porrata.  Finish this about me section</p>
               <p>
                 Put some extra goodies here
               </p>
